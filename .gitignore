@@ -1,0 +1,11 @@
+*.zip
+*.csv
+CAMOutputs/
+drawings/
+final/
+*\#*
+eagle.epf
+*.cam
+*.mnb
+*.mnt
+*.pro
